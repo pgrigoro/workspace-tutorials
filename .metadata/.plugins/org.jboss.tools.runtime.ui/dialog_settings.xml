@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item value="true" key="deleteOnExit"/>
+	<item value="C:\Users\Panos\AppData\Local\Temp\" key="defaultDestinationPath"/>
+	<item value="C:\Users\Panos" key="defaultDialogPath"/>
+	<section name="downloadRuntimeSection">
+		<item value="true" key="wildfly-810finalruntime"/>
+	</section>
+</section>

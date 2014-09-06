@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="wizardPage">
+		<list key="groupId">
+			<item value="jsf-first"/>
+			<item value="jsf-1.2-first"/>
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+			<item value="jsf-first"/>
+			<item value="jsf-1.2-first"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

@@ -1,0 +1,116 @@
+!SESSION 2014-08-30 16:21:38.590 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-08-30 19:10:51.721
+!MESSAGE Module jsf-first published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-08-30 19:10:53.015
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-08-30 19:11:04.228
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2014-08-30 19:11:04.525
+!MESSAGE Module jsf-first on WildFly 8.0 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2014-08-30 19:11:24.493
+!MESSAGE Module jsf-first on WildFly 8.0 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-08-30 19:11:48.873
+!MESSAGE Server processes have been terminated.
+!SESSION 2014-08-31 00:17:27.104 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.7.0_51
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.jee.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.jee.product
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-08-31 01:03:07.183
+!MESSAGE Module HelloWorldJSF published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-08-31 01:03:08.553
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-08-31 01:03:19.973
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2014-08-31 01:03:20.234
+!MESSAGE Module HelloWorldJSF on WildFly 8.0 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2014-08-31 01:03:40.157
+!MESSAGE Module HelloWorldJSF on WildFly 8.0 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-08-31 01:05:41.460
+!MESSAGE Server processes have been terminated.
+
+!ENTRY unknown 0 0 2014-08-31 01:06:03.838
+!MESSAGE OK
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-08-31 01:06:04.763
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-08-31 01:06:10.378
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2014-08-31 01:06:10.692
+!MESSAGE Module HelloWorldJSF on WildFly 8.0 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2014-08-31 01:06:30.472
+!MESSAGE Module HelloWorldJSF on WildFly 8.0 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-08-31 01:07:57.767
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-08-31 01:08:38.651
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-08-31 01:08:44.358
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2014-08-31 01:08:44.766
+!MESSAGE Module HelloWorldJSF on WildFly 8.0 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2014-08-31 01:09:04.738
+!MESSAGE Module HelloWorldJSF on WildFly 8.0 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-08-31 01:10:52.581
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 0 33685505 2014-08-31 01:13:48.123
+!MESSAGE Module HelloWorldJSF published without error.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-08-31 01:13:49.054
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-08-31 01:13:54.682
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2014-08-31 01:13:55.040
+!MESSAGE Module HelloWorldJSF on WildFly 8.0 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2014-08-31 01:14:14.865
+!MESSAGE Module HelloWorldJSF on WildFly 8.0 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-08-31 01:19:08.815
+!MESSAGE Server processes have been terminated.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842760 2014-08-31 01:19:17.693
+!MESSAGE Server Starting
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16842769 2014-08-31 01:19:23.400
+!MESSAGE Server Startup Succeeded
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 0 2014-08-31 01:19:23.722
+!MESSAGE Module HelloWorldJSF on WildFly 8.0 Runtime Server not yet fully deployed. Waiting...
+
+!ENTRY org.jboss.ide.eclipse.as.core 2 0 2014-08-31 01:19:43.571
+!MESSAGE Module HelloWorldJSF on WildFly 8.0 Runtime Server still not ready to be shown in browser. Aborting delay.
+
+!ENTRY org.jboss.ide.eclipse.as.core 1 16973825 2014-08-31 01:34:37.704
+!MESSAGE Server processes have been terminated.

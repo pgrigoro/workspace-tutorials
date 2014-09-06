@@ -1,0 +1,15 @@
+package hello;
+
+public class UserFormView {
+ private String userName;
+ private String lastname;
+
+ public String getUserName() {
+  return "EISAI MALAKAS";//userName;
+ }
+
+ public void setUserName(String userName) {
+  this.userName = userName;
+ }
+
+}
